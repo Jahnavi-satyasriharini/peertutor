@@ -1,6 +1,6 @@
-# CampusSkill — Campus Peer-Learning Platform
+# CampusSkills — Campus Peer-Learning Platform
 
-CampusSkill is a campus-only platform where students teach each other skills, find peer tutors, swap knowledge and work together in study groups. Only `@srmap.edu.in` email addresses can sign up.
+CampusSkills is a campus-only platform where students teach each other skills, find peer tutors, swap knowledge and work together in study groups. Only `@srmap.edu.in` email addresses can sign up.
 
 ## Features
 - **Profiles**: name, initials avatar, branch, year, bio, skills taught and wanted, average rating.
